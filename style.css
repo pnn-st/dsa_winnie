@@ -1,0 +1,41 @@
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'JetBrains Mono';
+            min-height: 100vh;
+        }
+
+        .btn {
+            width: 150px;
+            background-color: rgb(253, 225, 102);
+    
+        }
+
+        .btn:hover {
+
+            background: rgb(185, 161, 53);
+            color: rgb(255, 255, 255);
+        }
+
+
+        .book-list {
+            margin-left: 300px;
+            margin-right: 300px;
+        }
+
+        .borrow-list {
+            margin-left: 300px;
+            margin-right: 300px;
+        }
+
+        .return-list {
+            margin-left: 300px;
+            margin-right: 300px;
+        }
+
+        .nav-container {
+
+            padding : 60px;
+        }
